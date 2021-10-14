@@ -1,0 +1,13 @@
+.main {
+    margin: 3rem auto;
+    width: 90%;
+    max-width: 40rem;
+}
+
+.hr1 {
+    margin-top: 0.5rem;
+    border: 0;
+    height: 2px;
+    width: 90%;
+    background-image: linear-gradient(to right, transparent, #EDF5E1, transparent);  
+}
